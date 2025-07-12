@@ -205,10 +205,3 @@ If you use this code in your research, please cite:
   type={Bachelor's Thesis}
 }
 ```
-
-## Acknowledgments
-
-- PUDIP (Phase Unwrapping via Deep Image Prior) for baseline comparison
-- Segmentation Models PyTorch for neural network architectures
-- Telight for Q-PHASE microscopy system integration
-- Scientific Python ecosystem (NumPy, SciPy, scikit-image)
